@@ -10,4 +10,3 @@ This project aims to investigate health insurance costs among different populati
 - Pandas
 - Matplotlib
 
-https://github.com/pcanadas/portfolio-us-medical-insurance-costs/blob/main/us-medical-insurance-costs.ipynb
